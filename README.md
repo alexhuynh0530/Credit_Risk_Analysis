@@ -12,7 +12,7 @@ Balanced accuracy score: 65.12%
 Precision score: 99%
 Recall score: 56%
 
-![Naive_Random_Oversampling.png](https://github.com/alexhuynh0530/Amazon_Vine_Analysis/blob/main/Screenshots/Naive_Random_Oversampling.png)
+![Naive_Random_Oversampling.png](https://github.com/alexhuynh0530/Credit_Risk_Analysis/tree/main/Screenshots/Naive_Random_Oversampling.png)
 
 ### SMOTE Oversampling
 
@@ -20,7 +20,7 @@ Balanced accuracy score: 65.49%
 Precision score: 99%
 Recall score: 69%
 
-![SMOTE_Oversampling.png](https://github.com/alexhuynh0530/Amazon_Vine_Analysis/blob/main/Screenshots/SMOTE_Oversampling.png)
+![SMOTE_Oversampling.png](https://github.com/alexhuynh0530/Credit_Risk_Analysis/tree/main/Screenshots/SMOTE_Oversampling.png)
 
 ### Undersampling
 
@@ -28,7 +28,7 @@ Balanced accuracy score: 54.42%
 Precision score: 99%
 Recall score: 40%
 
-![Undersampling.png](https://github.com/alexhuynh0530/Amazon_Vine_Analysis/blob/main/Screenshots/Undersampling.png)
+![Undersampling.png](https://github.com/alexhuynh0530/Credit_Risk_Analysis/tree/main/Screenshots/Undersampling.png)
 
 ### Combination (Over and Under) Sampling
 
@@ -36,7 +36,7 @@ Balanced accuracy score: 64.8%
 Precision score: 99%
 Recall score: 57%
 
-![percentage_5_star_vine.png](https://github.com/alexhuynh0530/Amazon_Vine_Analysis/blob/main/screenshots/percentage_5_star_vine.png)
+![Combination.png](https://github.com/alexhuynh0530/Credit_Risk_Analysis/tree/main/Screenshots/Combination.png)
 
 ### Balanced Random Forest Classifier
 
@@ -44,7 +44,7 @@ Balanced accuracy score:
 Precision score: 
 Recall score: 
 
-![percentage_5_star_vine.png](https://github.com/alexhuynh0530/Amazon_Vine_Analysis/blob/main/screenshots/percentage_5_star_vine.png)
+![Balanced_Random_Forest_Classifier.png](https://github.com/alexhuynh0530/Credit_Risk_Analysis/tree/main/Screenshots/Balanced_Random_Forest_Classifier.png)
 
 ### Easy Ensemble AdaBoost Classifier
 
@@ -52,7 +52,7 @@ Balanced accuracy score:
 Precision score: 
 Recall score: 
 
-![percentage_5_star_vine.png](https://github.com/alexhuynh0530/Amazon_Vine_Analysis/blob/main/screenshots/percentage_5_star_vine.png)
+![Easy_Ensemble_AdaBoost_Classifier.png](https://github.com/alexhuynh0530/Credit_Risk_Analysis/tree/main/Screenshots/Easy_Ensemble_AdaBoost_Classifier.png)
 
 ## Summary: 
 
