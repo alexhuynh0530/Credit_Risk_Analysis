@@ -12,7 +12,7 @@ Balanced accuracy score: 65.12%
 Precision score: 99%
 Recall score: 56%
 
-![percentage_5_star_vine.png](https://github.com/alexhuynh0530/Amazon_Vine_Analysis/blob/main/screenshots/percentage_5_star_vine.png)
+![Naive_Random_Oversampling.png](https://github.com/alexhuynh0530/Amazon_Vine_Analysis/blob/main/Screenshots/Naive_Random_Oversampling.png)
 
 ### SMOTE Oversampling
 
@@ -20,7 +20,7 @@ Balanced accuracy score: 65.49%
 Precision score: 99%
 Recall score: 69%
 
-![percentage_5_star_vine.png](https://github.com/alexhuynh0530/Amazon_Vine_Analysis/blob/main/screenshots/percentage_5_star_vine.png)
+![SMOTE_Oversampling.png](https://github.com/alexhuynh0530/Amazon_Vine_Analysis/blob/main/Screenshots/SMOTE_Oversampling.png)
 
 ### Undersampling
 
@@ -28,7 +28,7 @@ Balanced accuracy score: 54.42%
 Precision score: 99%
 Recall score: 40%
 
-![percentage_5_star_vine.png](https://github.com/alexhuynh0530/Amazon_Vine_Analysis/blob/main/screenshots/percentage_5_star_vine.png)
+![Undersampling.png](https://github.com/alexhuynh0530/Amazon_Vine_Analysis/blob/main/Screenshots/Undersampling.png)
 
 ### Combination (Over and Under) Sampling
 
